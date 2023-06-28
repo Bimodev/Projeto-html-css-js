@@ -1,2 +1,2 @@
 # Projeto-html-css
-Projetos
+Projetos feito na escola, cursos ou em casa mesmo 
